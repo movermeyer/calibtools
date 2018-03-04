@@ -1,15 +1,15 @@
 Camera calibration toolbox for Python
 =====================================
 
-.. image:: https://pypip.in/license/calibtools/badge.png
+.. image:: https://img.shields.io/pypi/l/calibtools.svg
     :target: https://pypi.python.org/pypi/calibtools/
     :alt: License
 
-.. image:: https://pypip.in/v/calibtools/badge.png
+.. image:: https://img.shields.io/pypi/v/calibtools.svg
     :target: https://pypi.python.org/pypi/calibtools/
     :alt: Latest Version
 
-.. image:: https://pypip.in/d/calibtools/badge.png
+.. image:: https://img.shields.io/pypi/dm/calibtools.svg
     :target: https://pypi.python.org/pypi//calibtools/
     :alt: Downloads
 
